@@ -230,7 +230,7 @@ export const encoded = [
     ca: null,
     mpmId: null,
   },
-];
+]
 
 export const translations = {
   0: "",
@@ -247,4 +247,4 @@ export const translations = {
   82193: "Баннеры",
   82226: "Фикс",
   110639: "Статья",
-};
+}
